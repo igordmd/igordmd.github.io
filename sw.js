@@ -1,6 +1,7 @@
 const cacheName = 'full-v1';
 const staticAssets = [
   './',
+  './img/',
   './index.html',
   './404.html',
   './about.html',
